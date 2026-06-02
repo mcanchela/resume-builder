@@ -2,7 +2,6 @@
 
 A modern, high-fidelity web application built with **Next.js** and **Tailwind CSS** that generates professional resumes following the official **Harvard University (MCS) format**.
 
-Developed by [mcanchela](https://github.com/mcanchela).
 
 ## 🚀 Key Features
 
@@ -20,7 +19,7 @@ Developed by [mcanchela](https://github.com/mcanchela).
 -   **Styling:** Tailwind CSS (App UI) & Vanilla CSS (Resume Template)
 -   **PDF Generation:** html2canvas & jsPDF
 
-## 📂 Getting Started
+## Set Up
 
 First, install the dependencies:
 
@@ -33,9 +32,3 @@ Then, run the development server:
 ```bash
 npm run dev
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-## 📄 License
-
-© 2024 mcanchela • All Rights Reserved
