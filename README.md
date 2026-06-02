@@ -19,7 +19,7 @@ A modern, high-fidelity web application built with **Next.js** and **Tailwind CS
 -   **Styling:** Tailwind CSS (App UI) & Vanilla CSS (Resume Template)
 -   **PDF Generation:** html2canvas & jsPDF
 
-## Set Up
+<!-- ## Set Up
 
 First, install the dependencies:
 
@@ -31,4 +31,4 @@ Then, run the development server:
 
 ```bash
 npm run dev
-```
+``` -->
